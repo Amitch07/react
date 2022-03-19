@@ -1,0 +1,15 @@
+.heading {
+  color: burlywood;
+  text-align: center;
+  font-weight: normal;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+p {
+  color: aqua;
+  text-align: center;
+  font-family: cursive;
+}
+.img_1S {
+  height: 100px;
+  width: 100px;
+}
